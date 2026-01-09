@@ -12,7 +12,7 @@ export default function Loader({ onFinish }) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-white">
-      <p className="text-4xl fleur-de-leah-regular">
+      <p className="text-4xl dancing-script-bold">
         {text.split("").map((char, index) => (
           <span
             key={index}
