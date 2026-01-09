@@ -122,12 +122,6 @@ export default function Home() {
       className="absolute inset-6 w-[calc(100%-48px)] h-[calc(100%-48px)]
       object-cover rounded-xl grayscale hover:grayscale-0 transition duration-700"
     />
-
-    {/* 🧠 HUD LABEL */}
-    <div className="absolute -bottom-8 left-1/2 -translate-x-1/2
-      text-xs tracking-[0.35em] text-gray-400">
-      VISUAL CORE ACTIVE
-    </div>
   </motion.div>
 </motion.div>
 

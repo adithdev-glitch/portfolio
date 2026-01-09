@@ -73,7 +73,7 @@ export default function Projects() {
   return (
     <section
       ref={containerRef}
-      className="min-h-screen bg-white px-6 md:px-28 py-32"
+      className="min-h-screen bg-white px-6 md:px-28 py-32 overflow-hidden"
     >
       <h1 className="text-5xl md:text-6xl sekuya-regular mb-12 text-black ">
         Featured Projects

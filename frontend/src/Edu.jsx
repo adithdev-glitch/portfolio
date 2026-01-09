@@ -11,7 +11,7 @@ const fade = {
 
 export default function Education() {
   return (
-    <section className="min-h-screen bg-black text-white px-6 md:px-24 py-32 ">
+    <section className="min-h-screen bg-black text-white px-6 md:px-24 py-32 overflow-hidden">
       
       <motion.h1
         initial={{ opacity: 0 }}
