@@ -66,7 +66,7 @@ export default function Contact() {
             className="relative flex items-center justify-center">
             {/* IMAGE */}
             <motion.img
-              src={assets.traffic}
+              src={assets.trafic2}
               alt="Traffic Illustration"
               initial={{ opacity: 0, scale: 0.95, y: 40 }}
               animate={{ opacity: 1, scale: 1, y: -40 }}
