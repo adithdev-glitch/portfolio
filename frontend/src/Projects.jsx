@@ -11,7 +11,7 @@ const projects = [
     description:
       "A MERN-based e-learning platform designed to make online learning seamless and engaging. It features secure authentication, dynamic course management, interactive lectures, and smooth payment integration. With an intuitive interface and responsive design, Eonix empowers learners to access quality education anytime, anywhere.",
     image: assets.project_1,
-    tech: ["React", "Node.js", "MongoDB", "Express"],
+    tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
     link: "https://github.com/adithdev-glitch/E-LearningApp",
   },
   {
@@ -19,16 +19,16 @@ const projects = [
     description:
       "U-Fashion is a modern e-commerce platform built with the MERN stack, featuring secure payment integration for a seamless checkout experience. Users can browse products, add items to the cart, and complete purchases with confidence, while the platform ensures smooth, reliable transactions and a polished shopping interface.",
     image: assets.project_2,
-    tech: ["React", "Node.js", "MongoDB", "Express", "Cloudinary"],
+    tech: ["React", "Node.js", "MongoDB", "Express", "Cloudinary", "JWT", "OAuth"],
     link: "https://github.com/adithdev-glitch/e-commerce",
   },
   {
-    title: "Portfolio Website",
+    title: "HeyChat",
     description:
-      "Interactive personal portfolio built with React, Tailwind CSS, and Framer Motion. Showcases projects, skills, and professional experience with smooth animations, engaging transitions, and a modern, responsive design. Includes dynamic 3D elements, motion effects, and parallax interactions that create an immersive browsing experience, reflecting both technical proficiency and creative flair.",
+    "A full-stack real-time chat application built using the MERN stack that allows users to communicate instantly through text messages and image sharing. The application features secure user authentication, real-time messaging using Socket.IO, online user status, media upload support, responsive chat UI, and cloud-based image storage.",
     image: assets.project_3,
-    tech: ["React", "Tailwind", "Framer Motion", "GSAP"],
-    link: "#",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Cloudinary", "Socket.IO", "JWT"],
+    link: "https://github.com/adithdev-glitch/chatApp",
   },
   
 ]
