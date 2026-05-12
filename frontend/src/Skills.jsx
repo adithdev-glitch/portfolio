@@ -32,6 +32,7 @@ const skills = [
       "Postman",
       "VS Code",
       "JWT",
+      "OAuth",
       "RESTful APIs",
       "Cloudinary",
       "Vercel",
@@ -40,7 +41,7 @@ const skills = [
   },
   {
     title: "Databases",
-    items: ["MongoDB", "MySQL"],
+    items: ["MongoDB", "MySQL", "PostgreSQL"],
   },
   {
     title: "Productivity Tools",
